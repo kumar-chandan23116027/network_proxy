@@ -80,7 +80,7 @@ You can download the code using Git or set it up manually.
 **Using Git (Recommended)**
 
 ```bash
-git clone https://github.com/amardeep1306/custom-proxy-server.git
+https://github.com/kumar-chandan23116027/network_proxy.git
 cd custom-proxy-server
 ```
 ### Step 2: Build the Project
@@ -276,3 +276,4 @@ ipconfig
 
 ###  DEMO
 https://github.com/user-attachments/assets/00aae465-bd49-426c-85ca-028c9542a481
+
