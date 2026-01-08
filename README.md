@@ -80,7 +80,7 @@ You can download the code using Git or set it up manually.
 **Using Git (Recommended)**
 
 ```bash
-git clone https://github.com/amardeep1306/custom-proxy-server.git
+https://github.com/kumar-chandan23116027/network_proxy.git
 cd custom-proxy-server
 ```
 ### Step 2: Build the Project
@@ -273,3 +273,4 @@ ipconfig
 ```
 2. Open a browser on your friend's laptop and visit `http://example.com`.
 3. Check your server terminal. You should see request logs!
+
