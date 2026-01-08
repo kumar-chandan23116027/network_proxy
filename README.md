@@ -273,6 +273,3 @@ ipconfig
 ```
 2. Open a browser on your friend's laptop and visit `http://example.com`.
 3. Check your server terminal. You should see request logs!
-
-###  DEMO
-https://github.com/user-attachments/assets/00aae465-bd49-426c-85ca-028c9542a481
