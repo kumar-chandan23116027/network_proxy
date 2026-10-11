@@ -28,7 +28,7 @@ int main() {
     signal(SIGINT, handle_signal);
     signal(SIGTERM, handle_signal);
 
-    // लोड config/proxy.conf (सही पथ का उपयोग करें)
+    // load config/proxy.conf 
     load_config("config/proxy.conf");
     load_blacklist(config.blacklist_file);
 
